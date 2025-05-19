@@ -23,14 +23,6 @@ It provides RESTful endpoints to manage Education, Skills, Projects, and Experie
 - MongoDB (local or cloud instance)
 - npm or yarn
 
-### Installation
-
-**1. Clone the repository:**
-
-```bash
-git clone https://github.com/AhmadHassan17/portfolio-backend.git
-cd portfolio-backend
-
 
 API Endpoints
 Method	Endpoint	Description
