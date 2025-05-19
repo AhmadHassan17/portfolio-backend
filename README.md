@@ -24,7 +24,7 @@ It provides RESTful endpoints to manage Education, Skills, Projects, and Experie
 - npm or yarn
 
 
-API Endpoints
+**API Endpoints**
 Method	Endpoint	Description
 GET	/api/education	Get all education records
 POST	/api/education	Create a new education record
@@ -43,7 +43,7 @@ POST	/api/experience	Create a new experience record
 PUT	/api/experience/:id	Update experience record
 DELETE	/api/experience/:id	Delete experience record
 
-License
+**License**
 MIT License
 
 ![image](https://github.com/user-attachments/assets/5dd04e0d-6bfa-4ad1-88e6-b8097e596b7c)
